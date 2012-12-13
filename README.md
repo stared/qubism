@@ -13,7 +13,8 @@ Self-similar visualization of many-body wavefunctions (and also: time series, DN
 
 Current status:
 
-* Upload Mathematica scripts (DONE).
+* Upload Mathematica 7 scripts (DONE).
+    * One without output need to be run to see plots, but also weights ~40x less.
 * Clean-up and upload C++ programs (TO DO).
 * Write JavaScript script (TO DO).
 * Write Python script (TO DO).
