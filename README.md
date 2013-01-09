@@ -20,7 +20,8 @@ Current status:
         * Dicke states (i.e. permutation-symmetric with a fixed number of excitations),
         * Ising Transverse Field ground states, parametrized by $\Gamma$,
         * AKLT ground state.
-* Clean-up and upload C++ programs (TO DO).
+* Clean-up and upload C++ programs (DONE).
+    * It includes wavefunction examples.
 * Write JavaScript script (TO DO).
 * Write Python script (TO DO).
 
