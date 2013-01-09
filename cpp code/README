@@ -1,0 +1,32 @@
+Jan 9, 2013
+Copyleft, Javier Rodriguez-Laguna & Piotr Migdal
+This code is released under the GPL, version 3 (See http://www.gnu.org)
+
+Welcome to the linux C++ Qubism code, version 0.99!
+
+In order to build the executable file "xqview", you must have
+installed blas, lapack, xlib and imlib2, with the corresponding header
+files. In, e.g., Debian/Ubuntu, try the following command line in
+order to ensure you have everything:
+
+>> sudo apt-get install g++ libx11-dev libblas-dev libblas3gf liblapack-dev
+liblapack3gf libimlib2-dev libimlib2
+
+Now, build the executable:
+
+>> make xqview
+
+If you were successful, try
+
+>> xqview wf/H.012.001 white
+
+A nice qubistic picture should appear in your display. You can quit
+pressing "z". Inside the viewer you can use the keys 1, 2, 3 and 4 in
+order to zoom on one of the quadrants, or 0 to zoom out.
+
+Unfortunately, the code is not properly documented yet. We are working
+on that. All questions, suggestions, remarks... are welcome. Contact
+us at jvrlag@gmail.com (Javier Rodriguez-Laguna) or pmigdal@gmail.com
+(Piotr Migdal).
+
+Enjoy!
