@@ -15,6 +15,11 @@ Current status:
 
 * Upload Mathematica 7 scripts (DONE).
     * One without output need to be run to see plots, but also weights ~40x less.
+    * They contain also scripts to manipulate and generate popular quantum states (for 1D quantum spin chains), including: 
+        * product states,
+        * Dicke states (i.e. permutation-symmetric with a fixed number of excitations),
+        * Ising Transverse Field ground states, parametrized by $\Gamma$,
+        * AKLT ground state.
 * Clean-up and upload C++ programs (TO DO).
 * Write JavaScript script (TO DO).
 * Write Python script (TO DO).
