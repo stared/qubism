@@ -23,5 +23,5 @@ Current status:
 * Clean-up and upload C++ programs (DONE).
     * It includes wavefunction examples.
 * Write JavaScript script (TO DO).
-* Write Python script (TO DO).
+* Write Python script (DONE) - see [Qubism in QuTiP package](http://nbviewer.ipython.org/github/qutip/qutip-notebooks/blob/master/examples/example-qubism-and-schmidt-plots.ipynb).
 
